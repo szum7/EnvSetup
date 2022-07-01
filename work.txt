@@ -17,6 +17,7 @@ Essential:
 	-  https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 - Notepad++
 	- Obsidian theme
+	- Plugins/Plugin admin... -> install LuaScript -> Plugins/LuaScript/Show console -> (in console) editor.MarginLeft = 10
 - Screensaver disabler 
 	- https://github.com/pedrolcl/screensaver-disabler
 - node.js
